@@ -304,17 +304,8 @@ if page == "Resumen General":
         return None
 
     # Crecimiento total periodo completo
-    def total_growth(ts):
-        annual = ts["Trade_Value"].resample("YE").sum()
-        if len(annual) >= 2:
-            first, last = annual.iloc[0], annual.iloc[-1]
-            return (last - first) / first * 100 if first != 0 else None
-        return None
-
     yoy_exp   = yoy_growth(ts_exp)
     yoy_imp   = yoy_growth(ts_imp)
-    tot_exp   = total_growth(ts_exp)
-    tot_imp   = total_growth(ts_imp)
 
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Exportaciones", fmt_usd(total_exp))
@@ -336,14 +327,7 @@ if page == "Resumen General":
         g2.metric("Importaciones (YoY)", f"{yoy_imp:+.1f}%",
                   delta=f"{'▲' if yoy_imp >= 0 else '▼'} vs año anterior",
                   delta_color="normal" if yoy_imp >= 0 else "inverse")
-    if tot_exp is not None:
-        g3.metric("Exportaciones (periodo)", f"{tot_exp:+.1f}%",
-                  delta="primer → último año",
-                  delta_color="off")
-    if tot_imp is not None:
-        g4.metric("Importaciones (periodo)", f"{tot_imp:+.1f}%",
-                  delta="primer → último año",
-                  delta_color="off")
+
 
     st.markdown("")
 
@@ -430,30 +414,16 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
     annual_y = y.resample("YE").sum()
     if len(annual_y) >= 2:
         yoy_pct   = (annual_y.iloc[-1] - annual_y.iloc[-2]) / annual_y.iloc[-2] * 100
-        total_pct = (annual_y.iloc[-1] - annual_y.iloc[0])  / annual_y.iloc[0]  * 100
-        first_yr  = annual_y.index[0].year
         last_yr   = annual_y.index[-1].year
         prev_yr   = annual_y.index[-2].year
 
         st.markdown("")
-        g1, g2, g3 = st.columns(3)
+        g1, = st.columns(1)
         g1.metric(
             f"Crecimiento YoY ({prev_yr}→{last_yr})",
             f"{yoy_pct:+.1f}%",
             delta=f"{'Alza' if yoy_pct >= 0 else 'Baja'} vs año anterior",
             delta_color="normal" if yoy_pct >= 0 else "inverse"
-        )
-        g2.metric(
-            f"Crecimiento total ({first_yr}→{last_yr})",
-            f"{total_pct:+.1f}%",
-            delta="Variación acumulada del periodo",
-            delta_color="off"
-        )
-        g3.metric(
-            f"CAGR ({first_yr}→{last_yr})",
-            f"{((annual_y.iloc[-1]/annual_y.iloc[0])**(1/(last_yr-first_yr))-1)*100:+.1f}%",
-            delta="Tasa de crecimiento anual compuesta",
-            delta_color="off"
         )
 
     # ── TABS ─────────────────────────────────────────────────────────────────
