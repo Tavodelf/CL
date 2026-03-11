@@ -267,7 +267,7 @@ for col, p in zip(nav_cols, PAGES):
         if st.button(
             f"{ICONS[p]}  {p}",
             key=f"nav_{p}",
-            use_container_width=True,
+            width="stretch",
             type="primary" if active else "secondary",
         ):
             st.session_state.page = p
@@ -295,6 +295,27 @@ if page == "Resumen General":
     balance   = total_exp - total_imp
     municipios = panel["Municipio_ID"].nunique()
 
+    # Crecimiento año anterior vs año más reciente (anual)
+    def yoy_growth(ts):
+        annual = ts["Trade_Value"].resample("YE").sum()
+        if len(annual) >= 2:
+            last, prev = annual.iloc[-1], annual.iloc[-2]
+            return (last - prev) / prev * 100 if prev != 0 else None
+        return None
+
+    # Crecimiento total periodo completo
+    def total_growth(ts):
+        annual = ts["Trade_Value"].resample("YE").sum()
+        if len(annual) >= 2:
+            first, last = annual.iloc[0], annual.iloc[-1]
+            return (last - first) / first * 100 if first != 0 else None
+        return None
+
+    yoy_exp   = yoy_growth(ts_exp)
+    yoy_imp   = yoy_growth(ts_imp)
+    tot_exp   = total_growth(ts_exp)
+    tot_imp   = total_growth(ts_imp)
+
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Total Exportaciones", fmt_usd(total_exp))
     c2.metric("Total Importaciones", fmt_usd(total_imp))
@@ -302,6 +323,27 @@ if page == "Resumen General":
               delta="Superávit" if balance >= 0 else "Déficit",
               delta_color="normal" if balance >= 0 else "inverse")
     c4.metric("Municipios", f"{municipios}")
+
+    # Fila de crecimiento
+    st.markdown("")
+    st.markdown("### 📈 Crecimiento del comercio exterior")
+    g1, g2, g3, g4 = st.columns(4)
+    if yoy_exp is not None:
+        g1.metric("Exportaciones (YoY)", f"{yoy_exp:+.1f}%",
+                  delta=f"{'▲' if yoy_exp >= 0 else '▼'} vs año anterior",
+                  delta_color="normal" if yoy_exp >= 0 else "inverse")
+    if yoy_imp is not None:
+        g2.metric("Importaciones (YoY)", f"{yoy_imp:+.1f}%",
+                  delta=f"{'▲' if yoy_imp >= 0 else '▼'} vs año anterior",
+                  delta_color="normal" if yoy_imp >= 0 else "inverse")
+    if tot_exp is not None:
+        g3.metric("Exportaciones (periodo)", f"{tot_exp:+.1f}%",
+                  delta="primer → último año",
+                  delta_color="off")
+    if tot_imp is not None:
+        g4.metric("Importaciones (periodo)", f"{tot_imp:+.1f}%",
+                  delta="primer → último año",
+                  delta_color="off")
 
     st.markdown("")
 
@@ -320,7 +362,7 @@ if page == "Resumen General":
         fig.add_trace(go.Scatter(x=imp_c.index, y=imp_c.values, name="Importaciones",
                                   line=dict(color=C["orange"], width=2)))
         fig.update_yaxes(tickprefix="$", tickformat=",.0f")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     with tab2:
         fig2 = base_fig(title="Balanza Comercial Mensual (Exportaciones − Importaciones)")
@@ -329,7 +371,7 @@ if page == "Resumen General":
                                name="Balanza", opacity=0.85))
         fig2.add_hline(y=0, line_color=C["muted"], line_width=1)
         fig2.update_yaxes(tickprefix="$", tickformat=",.0f")
-        st.plotly_chart(fig2, use_container_width=True)
+        st.plotly_chart(fig2, width="stretch")
 
     # Top estados
     st.markdown("### Top 10 estados por volumen total de comercio")
@@ -346,7 +388,7 @@ if page == "Resumen General":
     fig3.update_layout(**_l3,
                        title="Trade Value total por Estado (Billones USD)",
                        xaxis_title="USD (Miles de millones)")
-    st.plotly_chart(fig3, use_container_width=True)
+    st.plotly_chart(fig3, width="stretch")
 
     st.markdown("---")
     st.markdown(f"""
@@ -384,6 +426,36 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
     c3.metric("Máximo mensual", fmt_usd(y.max()))
     c4.metric("Mín. mensual", fmt_usd(y.min()))
 
+    # KPIs de crecimiento
+    annual_y = y.resample("YE").sum()
+    if len(annual_y) >= 2:
+        yoy_pct   = (annual_y.iloc[-1] - annual_y.iloc[-2]) / annual_y.iloc[-2] * 100
+        total_pct = (annual_y.iloc[-1] - annual_y.iloc[0])  / annual_y.iloc[0]  * 100
+        first_yr  = annual_y.index[0].year
+        last_yr   = annual_y.index[-1].year
+        prev_yr   = annual_y.index[-2].year
+
+        st.markdown("")
+        g1, g2, g3 = st.columns(3)
+        g1.metric(
+            f"Crecimiento YoY ({prev_yr}→{last_yr})",
+            f"{yoy_pct:+.1f}%",
+            delta=f"{'Alza' if yoy_pct >= 0 else 'Baja'} vs año anterior",
+            delta_color="normal" if yoy_pct >= 0 else "inverse"
+        )
+        g2.metric(
+            f"Crecimiento total ({first_yr}→{last_yr})",
+            f"{total_pct:+.1f}%",
+            delta="Variación acumulada del periodo",
+            delta_color="off"
+        )
+        g3.metric(
+            f"CAGR ({first_yr}→{last_yr})",
+            f"{((annual_y.iloc[-1]/annual_y.iloc[0])**(1/(last_yr-first_yr))-1)*100:+.1f}%",
+            delta="Tasa de crecimiento anual compuesta",
+            delta_color="off"
+        )
+
     # ── TABS ─────────────────────────────────────────────────────────────────
     t1, t2, t3, t4, t5 = st.tabs([
         "📈  Serie & Tendencia",
@@ -407,13 +479,13 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
         fig.add_trace(go.Scatter(x=y.index, y=trend, name="Tendencia lineal",
                                   line=dict(color=C["red"], width=2, dash="dash")))
         fig.update_yaxes(tickprefix="$", tickformat=",.0f")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
         col_a, col_b = st.columns([1, 1])
         with col_a:
             st.markdown("**Estadísticos descriptivos**")
             desc = y.describe().rename("Trade_Value").to_frame()
-            st.dataframe(desc.style.format("${:,.0f}"), use_container_width=True)
+            st.dataframe(desc.style.format("${:,.0f}"), width="stretch")
         with col_b:
             st.markdown("**Distribución**")
             fig_hist = go.Figure()
@@ -422,7 +494,7 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
                                              name="Frecuencia", histnorm="probability density"))
             fig_hist.update_layout(**LAYOUT_BASE, title="Histograma",
                                     xaxis_tickprefix="$", xaxis_tickformat=",.0f")
-            st.plotly_chart(fig_hist, use_container_width=True)
+            st.plotly_chart(fig_hist, width="stretch")
 
     # ── TAB 2: Suavizamiento ─────────────────────────────────────────────────
     with t2:
@@ -451,7 +523,7 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
             fig.add_vrect(x0=str(last_date), x1=str(fut_idx[-1]),
                           fillcolor=C["purple"], opacity=0.05, layer="below", line_width=0)
             fig.update_yaxes(tickprefix="$", tickformat=",.0f")
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
     # ── TAB 3: ADF + ACF/PACF ───────────────────────────────────────────────
     with t3:
@@ -492,7 +564,7 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
             fig_ap.add_hline(y=-ci, line=dict(color=C["muted"], dash="dash", width=1), row=1, col=col_idx)
             fig_ap.add_hline(y=0,   line=dict(color=C["border"], width=1),             row=1, col=col_idx)
         fig_ap.update_layout(**LAYOUT_BASE, title="Autocorrelación — 1ª diferencia")
-        st.plotly_chart(fig_ap, use_container_width=True)
+        st.plotly_chart(fig_ap, width="stretch")
 
     # ── TAB 4: SARIMA ────────────────────────────────────────────────────────
     with t4:
@@ -574,7 +646,7 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
                 fig_s.add_vrect(x0=str(y.index[-1]), x1=str(fut_idx2[-1]),
                                 fillcolor=C["purple"], opacity=0.04, layer="below", line_width=0)
                 fig_s.update_yaxes(tickprefix="$", tickformat=",.0f")
-                st.plotly_chart(fig_s, use_container_width=True)
+                st.plotly_chart(fig_s, width="stretch")
 
                 # Eval table
                 df_eval = pd.DataFrame({
@@ -588,7 +660,7 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
                     "Predicho ($)": "${:,.0f}",
                     "Error abs ($)":"${:,.0f}",
                     "Error (%)":    "{:.2f}%",
-                }), use_container_width=True)
+                }), width="stretch")
 
             except Exception as e:
                 st.error(f"Error al entrenar el modelo: {e}")
@@ -598,7 +670,7 @@ def render_ts_module(flow_name: str, default_order, default_seasonal):
         show_df = ts.reset_index()[["Month", "Trade_Value"]].copy()
         show_df.columns = ["Mes", "Trade Value (USD)"]
         st.dataframe(show_df.style.format({"Trade Value (USD)": "${:,.0f}"}),
-                     use_container_width=True, height=450)
+                     width="stretch", height=450)
 
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -705,7 +777,7 @@ elif page == "Clusters Municipios":
             fig_el.add_vline(x=K_FINAL, line=dict(color=C["red"], dash="dash", width=1.5),
                               row=1, col=col_idx)
         fig_el.update_layout(**LAYOUT_BASE, showlegend=False)
-        st.plotly_chart(fig_el, use_container_width=True)
+        st.plotly_chart(fig_el, width="stretch")
 
     with tab2:
         var_exp = pca.explained_variance_ratio_.sum()
@@ -733,7 +805,7 @@ elif page == "Clusters Municipios":
         fig_pca.update_layout(**LAYOUT_BASE,
                                title=f"PCA 2D — K={K_FINAL} clusters  |  varianza explicada: {var_exp:.1%}",
                                xaxis_title="PC1", yaxis_title="PC2")
-        st.plotly_chart(fig_pca, use_container_width=True)
+        st.plotly_chart(fig_pca, width="stretch")
 
     with tab3:
         profile = cdf.groupby("cluster")[FEAT].mean().round(2)
@@ -766,7 +838,7 @@ elif page == "Clusters Municipios":
             title="Perfil normalizado por cluster",
             margin=dict(l=60, r=60, t=60, b=40),
         )
-        st.plotly_chart(fig_radar, use_container_width=True)
+        st.plotly_chart(fig_radar, width="stretch")
 
         # Tabla de medias
         st.markdown("**Medias por cluster**")
@@ -778,7 +850,7 @@ elif page == "Clusters Municipios":
             "import_share":"{:.2%}",
             "export_share":"{:.2%}",
             "years":       "{:.0f}",
-        }).background_gradient(cmap="Blues"), use_container_width=True)
+        }).background_gradient(cmap="Blues"), width="stretch")
 
     with tab4:
         sel_cl = st.selectbox("Filtrar por cluster", ["Todos"] + [f"Cluster {i}" for i in sorted(cdf["cluster"].unique())])
@@ -796,7 +868,7 @@ elif page == "Clusters Municipios":
             "import_share":   "{:.1%}",
             "export_share":   "{:.1%}",
             "trade_cv":       "{:.3f}",
-        }), use_container_width=True, height=480)
+        }), width="stretch", height=480)
 
         # Treemap
         fig_tree = px.treemap(
@@ -808,4 +880,4 @@ elif page == "Clusters Municipios":
         fig_tree.update_layout(**{k:v for k,v in LAYOUT_BASE.items()
                                    if k not in ["xaxis","yaxis","hovermode"]})
         fig_tree.update_traces(textinfo="label+percent root")
-        st.plotly_chart(fig_tree, use_container_width=True)
+        st.plotly_chart(fig_tree, width="stretch")
