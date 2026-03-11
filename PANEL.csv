@@ -1,0 +1,1087 @@
+Year,Municipio_ID,Municipio_NAME,Flow_ID,Flow,State_ID,State,Trade_Value
+2006,1001,Aguascalientes,1,Imports,1,Aguascalientes,20812056
+2006,2001,Ensenada,1,Imports,2,Baja California,9802373
+2006,2002,Mexicali,1,Imports,2,Baja California,55382409
+2006,2004,Tijuana,1,Imports,2,Baja California,44926376
+2006,3003,La Paz,1,Imports,3,Baja California Sur,7800603
+2006,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,7841176
+2006,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,13195705
+2006,8019,Chihuahua,1,Imports,8,Chihuahua,103229663
+2006,8037,Juárez,1,Imports,8,Chihuahua,60040508
+2006,9002,Azcapotzalco,1,Imports,9,Ciudad de México,135874634
+2006,9005,Gustavo A. Madero,1,Imports,9,Ciudad de México,388389
+2006,9006,Iztacalco,1,Imports,9,Ciudad de México,795204
+2006,9007,Iztapalapa,1,Imports,9,Ciudad de México,7425667
+2006,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,303031556
+2006,9014,Benito Juárez,1,Imports,9,Ciudad de México,65018874
+2006,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,4346721
+2006,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,28861813
+2006,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,32675159
+2006,10007,Gómez Palacio,1,Imports,10,Durango,9132962
+2006,11007,Celaya,1,Imports,11,Guanajuato,16837551
+2006,14039,Guadalajara,1,Imports,14,Jalisco,32294455
+2006,14120,Zapopan,1,Imports,14,Jalisco,7023856
+2006,15025,Chalco,1,Imports,15,Estado de México,1006106
+2006,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,296573
+2006,15058,Nezahualcóyotl,1,Imports,15,Estado de México,13776277
+2006,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,36316906
+2006,19019,San Pedro Garza García,1,Imports,19,Nuevo León,217138806
+2006,19026,Guadalupe,1,Imports,19,Nuevo León,48436163
+2006,19039,Monterrey,1,Imports,19,Nuevo León,358303678
+2006,19039,Monterrey,2,Exports,19,Nuevo León,142810
+2006,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,86355610
+2006,21114,Puebla,1,Imports,21,Puebla,16190359
+2006,22014,Querétaro,1,Imports,22,Querétaro,36698510
+2006,23005,Benito Juárez,1,Imports,23,Quintana Roo,4746420
+2006,25006,Culiacán,1,Imports,25,Sinaloa,144402508
+2006,26002,Agua Prieta,1,Imports,26,Sonora,292199
+2006,26018,Cajeme,2,Exports,26,Sonora,27190572
+2006,26030,Hermosillo,1,Imports,26,Sonora,43475574
+2006,26030,Hermosillo,2,Exports,26,Sonora,72586359
+2006,26042,Navojoa,1,Imports,26,Sonora,31411545
+2006,26042,Navojoa,2,Exports,26,Sonora,84034344
+2006,26043,Nogales,1,Imports,26,Sonora,6548176
+2006,26055,San Luis Río Colorado,1,Imports,26,Sonora,4896095
+2006,28022,Matamoros,1,Imports,28,Tamaulipas,8337326
+2006,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,11374391
+2006,28032,Reynosa,1,Imports,28,Tamaulipas,121024190
+2006,28033,Río Bravo,1,Imports,28,Tamaulipas,599672
+2006,31050,Mérida,1,Imports,31,Yucatán,10878107
+2007,1001,Aguascalientes,1,Imports,1,Aguascalientes,17907915
+2007,2001,Ensenada,1,Imports,2,Baja California,11739463
+2007,2002,Mexicali,1,Imports,2,Baja California,47631385
+2007,2004,Tijuana,1,Imports,2,Baja California,45115426
+2007,3003,La Paz,1,Imports,3,Baja California Sur,5241079
+2007,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,9900106
+2007,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,1265392
+2007,8019,Chihuahua,1,Imports,8,Chihuahua,99108688
+2007,8037,Juárez,1,Imports,8,Chihuahua,61794027
+2007,9002,Azcapotzalco,1,Imports,9,Ciudad de México,133533937
+2007,9003,Coyoacán,1,Imports,9,Ciudad de México,218790
+2007,9005,Gustavo A. Madero,1,Imports,9,Ciudad de México,716951
+2007,9006,Iztacalco,1,Imports,9,Ciudad de México,3027105
+2007,9007,Iztapalapa,1,Imports,9,Ciudad de México,5866433
+2007,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,339071401
+2007,9014,Benito Juárez,1,Imports,9,Ciudad de México,59740555
+2007,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,3693128
+2007,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,32705642
+2007,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,28853957
+2007,10007,Gómez Palacio,1,Imports,10,Durango,7929738
+2007,11007,Celaya,1,Imports,11,Guanajuato,38317587
+2007,11020,León,1,Imports,11,Guanajuato,145085
+2007,14039,Guadalajara,1,Imports,14,Jalisco,34833710
+2007,14120,Zapopan,1,Imports,14,Jalisco,7345957
+2007,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,5475777
+2007,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,453101
+2007,15058,Nezahualcóyotl,1,Imports,15,Estado de México,12749781
+2007,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,30210714
+2007,19019,San Pedro Garza García,1,Imports,19,Nuevo León,214456825
+2007,19026,Guadalupe,1,Imports,19,Nuevo León,43580009
+2007,19039,Monterrey,1,Imports,19,Nuevo León,328866569
+2007,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,73943779
+2007,21114,Puebla,1,Imports,21,Puebla,22778770
+2007,22014,Querétaro,1,Imports,22,Querétaro,19476560
+2007,23005,Benito Juárez,1,Imports,23,Quintana Roo,2474539
+2007,25006,Culiacán,1,Imports,25,Sinaloa,201507640
+2007,25006,Culiacán,2,Exports,25,Sinaloa,17204603
+2007,26018,Cajeme,2,Exports,26,Sonora,75703443
+2007,26030,Hermosillo,1,Imports,26,Sonora,40151365
+2007,26030,Hermosillo,2,Exports,26,Sonora,76625920
+2007,26042,Navojoa,1,Imports,26,Sonora,26029967
+2007,26042,Navojoa,2,Exports,26,Sonora,74919121
+2007,26043,Nogales,1,Imports,26,Sonora,4112754
+2007,26055,San Luis Río Colorado,1,Imports,26,Sonora,4829570
+2007,28022,Matamoros,1,Imports,28,Tamaulipas,7494881
+2007,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,12017220
+2007,28032,Reynosa,1,Imports,28,Tamaulipas,151040668
+2007,28033,Río Bravo,1,Imports,28,Tamaulipas,1894481
+2007,31050,Mérida,1,Imports,31,Yucatán,4481266
+2008,1001,Aguascalientes,1,Imports,1,Aguascalientes,24132549
+2008,2001,Ensenada,1,Imports,2,Baja California,10383505
+2008,2002,Mexicali,1,Imports,2,Baja California,58475862
+2008,2004,Tijuana,1,Imports,2,Baja California,56638994
+2008,3003,La Paz,1,Imports,3,Baja California Sur,4339619
+2008,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,6414076
+2008,8019,Chihuahua,1,Imports,8,Chihuahua,148117591
+2008,8037,Juárez,1,Imports,8,Chihuahua,78842459
+2008,9002,Azcapotzalco,1,Imports,9,Ciudad de México,162780711
+2008,9005,Gustavo A. Madero,1,Imports,9,Ciudad de México,5147263
+2008,9006,Iztacalco,1,Imports,9,Ciudad de México,209703
+2008,9007,Iztapalapa,1,Imports,9,Ciudad de México,5835980
+2008,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,370819980
+2008,9012,Tlalpan,1,Imports,9,Ciudad de México,132099
+2008,9014,Benito Juárez,1,Imports,9,Ciudad de México,61366319
+2008,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,29356413
+2008,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,34809242
+2008,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,42006899
+2008,10007,Gómez Palacio,1,Imports,10,Durango,747107
+2008,11007,Celaya,1,Imports,11,Guanajuato,52687859
+2008,11020,León,1,Imports,11,Guanajuato,604976
+2008,14039,Guadalajara,1,Imports,14,Jalisco,50196543
+2008,14120,Zapopan,1,Imports,14,Jalisco,9687468
+2008,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,7138620
+2008,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,763920
+2008,15058,Nezahualcóyotl,1,Imports,15,Estado de México,18458555
+2008,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,32101003
+2008,19019,San Pedro Garza García,1,Imports,19,Nuevo León,176125054
+2008,19026,Guadalupe,1,Imports,19,Nuevo León,51659426
+2008,19026,Guadalupe,2,Exports,19,Nuevo León,8989383
+2008,19039,Monterrey,1,Imports,19,Nuevo León,453529679
+2008,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,86068625
+2008,21114,Puebla,1,Imports,21,Puebla,32452913
+2008,22014,Querétaro,1,Imports,22,Querétaro,17625947
+2008,23005,Benito Juárez,1,Imports,23,Quintana Roo,3936301
+2008,25006,Culiacán,1,Imports,25,Sinaloa,301466419
+2008,25006,Culiacán,2,Exports,25,Sinaloa,11278053
+2008,26018,Cajeme,2,Exports,26,Sonora,100012014
+2008,26030,Hermosillo,1,Imports,26,Sonora,45564982
+2008,26030,Hermosillo,2,Exports,26,Sonora,94678730
+2008,26042,Navojoa,1,Imports,26,Sonora,31366382
+2008,26042,Navojoa,2,Exports,26,Sonora,108186733
+2008,26043,Nogales,1,Imports,26,Sonora,2090635
+2008,26055,San Luis Río Colorado,1,Imports,26,Sonora,5013612
+2008,28022,Matamoros,1,Imports,28,Tamaulipas,1388446
+2008,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,23807751
+2008,28032,Reynosa,1,Imports,28,Tamaulipas,168502623
+2008,28033,Río Bravo,1,Imports,28,Tamaulipas,1672526
+2008,31050,Mérida,1,Imports,31,Yucatán,9310425
+2009,1001,Aguascalientes,1,Imports,1,Aguascalientes,27917392
+2009,2001,Ensenada,1,Imports,2,Baja California,9541372
+2009,2002,Mexicali,1,Imports,2,Baja California,51293946
+2009,2004,Tijuana,1,Imports,2,Baja California,38033509
+2009,3003,La Paz,1,Imports,3,Baja California Sur,2822830
+2009,5025,Piedras Negras,1,Imports,5,Coahuila de Zaragoza,501348
+2009,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,954755
+2009,8019,Chihuahua,1,Imports,8,Chihuahua,133077751
+2009,8037,Juárez,1,Imports,8,Chihuahua,57586089
+2009,9002,Azcapotzalco,1,Imports,9,Ciudad de México,95984067
+2009,9005,Gustavo A. Madero,1,Imports,9,Ciudad de México,18634709
+2009,9006,Iztacalco,1,Imports,9,Ciudad de México,291692
+2009,9007,Iztapalapa,1,Imports,9,Ciudad de México,10438331
+2009,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,324611934
+2009,9014,Benito Juárez,1,Imports,9,Ciudad de México,43330451
+2009,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,7091703
+2009,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,35141236
+2009,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,33563819
+2009,11007,Celaya,1,Imports,11,Guanajuato,47215059
+2009,11020,León,1,Imports,11,Guanajuato,325572
+2009,14039,Guadalajara,1,Imports,14,Jalisco,51272049
+2009,14120,Zapopan,1,Imports,14,Jalisco,7611138
+2009,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,868218
+2009,15058,Nezahualcóyotl,1,Imports,15,Estado de México,16887387
+2009,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,29072985
+2009,19019,San Pedro Garza García,1,Imports,19,Nuevo León,196141755
+2009,19026,Guadalupe,1,Imports,19,Nuevo León,53287621
+2009,19026,Guadalupe,2,Exports,19,Nuevo León,1459290
+2009,19039,Monterrey,1,Imports,19,Nuevo León,261982984
+2009,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,86928729
+2009,21114,Puebla,1,Imports,21,Puebla,46150379
+2009,22014,Querétaro,1,Imports,22,Querétaro,21514674
+2009,23005,Benito Juárez,1,Imports,23,Quintana Roo,2268144
+2009,25006,Culiacán,1,Imports,25,Sinaloa,277319695
+2009,25006,Culiacán,2,Exports,25,Sinaloa,66723397
+2009,26018,Cajeme,1,Imports,26,Sonora,5120982
+2009,26018,Cajeme,2,Exports,26,Sonora,78278529
+2009,26030,Hermosillo,1,Imports,26,Sonora,34504061
+2009,26030,Hermosillo,2,Exports,26,Sonora,73910772
+2009,26042,Navojoa,1,Imports,26,Sonora,20683731
+2009,26042,Navojoa,2,Exports,26,Sonora,80373253
+2009,26043,Nogales,1,Imports,26,Sonora,2461223
+2009,26055,San Luis Río Colorado,1,Imports,26,Sonora,5489610
+2009,28022,Matamoros,1,Imports,28,Tamaulipas,195188
+2009,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,31075850
+2009,28032,Reynosa,1,Imports,28,Tamaulipas,189341924
+2009,31050,Mérida,1,Imports,31,Yucatán,14078735
+2010,1001,Aguascalientes,1,Imports,1,Aguascalientes,33390751
+2010,2001,Ensenada,1,Imports,2,Baja California,8093718
+2010,2002,Mexicali,1,Imports,2,Baja California,60068473
+2010,2004,Tijuana,1,Imports,2,Baja California,41509630
+2010,3003,La Paz,1,Imports,3,Baja California Sur,4466798
+2010,8019,Chihuahua,1,Imports,8,Chihuahua,170531923
+2010,8037,Juárez,1,Imports,8,Chihuahua,63394444
+2010,9002,Azcapotzalco,1,Imports,9,Ciudad de México,72786175
+2010,9006,Iztacalco,1,Imports,9,Ciudad de México,1944594
+2010,9007,Iztapalapa,1,Imports,9,Ciudad de México,15556565
+2010,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,353031666
+2010,9014,Benito Juárez,1,Imports,9,Ciudad de México,40491170
+2010,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,6073132
+2010,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,35474338
+2010,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,33134674
+2010,10007,Gómez Palacio,1,Imports,10,Durango,1907172
+2010,11007,Celaya,1,Imports,11,Guanajuato,58810421
+2010,11020,León,1,Imports,11,Guanajuato,3569198
+2010,14039,Guadalajara,1,Imports,14,Jalisco,65758222
+2010,14120,Zapopan,1,Imports,14,Jalisco,11731765
+2010,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,240848
+2010,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,422535
+2010,15058,Nezahualcóyotl,1,Imports,15,Estado de México,19045726
+2010,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,30880058
+2010,19019,San Pedro Garza García,1,Imports,19,Nuevo León,195818052
+2010,19026,Guadalupe,1,Imports,19,Nuevo León,61964431
+2010,19039,Monterrey,1,Imports,19,Nuevo León,344283833
+2010,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,104618100
+2010,21114,Puebla,1,Imports,21,Puebla,48512556
+2010,22014,Querétaro,1,Imports,22,Querétaro,24912957
+2010,23005,Benito Juárez,1,Imports,23,Quintana Roo,6689357
+2010,25006,Culiacán,1,Imports,25,Sinaloa,360596323
+2010,25006,Culiacán,2,Exports,25,Sinaloa,112537094
+2010,26018,Cajeme,1,Imports,26,Sonora,10412472
+2010,26018,Cajeme,2,Exports,26,Sonora,74912793
+2010,26030,Hermosillo,1,Imports,26,Sonora,42193605
+2010,26030,Hermosillo,2,Exports,26,Sonora,90900577
+2010,26042,Navojoa,1,Imports,26,Sonora,38542792
+2010,26042,Navojoa,2,Exports,26,Sonora,86590170
+2010,26043,Nogales,1,Imports,26,Sonora,2343259
+2010,26055,San Luis Río Colorado,1,Imports,26,Sonora,5300422
+2010,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,23391728
+2010,28032,Reynosa,1,Imports,28,Tamaulipas,260524092
+2010,28033,Río Bravo,1,Imports,28,Tamaulipas,2135837
+2010,31050,Mérida,1,Imports,31,Yucatán,21201911
+2011,1001,Aguascalientes,1,Imports,1,Aguascalientes,38878969
+2011,2001,Ensenada,1,Imports,2,Baja California,4310086
+2011,2002,Mexicali,1,Imports,2,Baja California,79486746
+2011,2004,Tijuana,1,Imports,2,Baja California,44869408
+2011,3003,La Paz,1,Imports,3,Baja California Sur,985785
+2011,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,23695538
+2011,8019,Chihuahua,1,Imports,8,Chihuahua,179093105
+2011,8037,Juárez,1,Imports,8,Chihuahua,68814624
+2011,9002,Azcapotzalco,1,Imports,9,Ciudad de México,70726001
+2011,9005,Gustavo A. Madero,1,Imports,9,Ciudad de México,399193
+2011,9006,Iztacalco,1,Imports,9,Ciudad de México,13193066
+2011,9007,Iztapalapa,1,Imports,9,Ciudad de México,1550743
+2011,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,339369576
+2011,9011,Tláhuac,1,Imports,9,Ciudad de México,374282
+2011,9014,Benito Juárez,1,Imports,9,Ciudad de México,44598182
+2011,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,2605418
+2011,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,40742917
+2011,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,17228323
+2011,10007,Gómez Palacio,1,Imports,10,Durango,8004446
+2011,11007,Celaya,1,Imports,11,Guanajuato,80143369
+2011,11020,León,1,Imports,11,Guanajuato,1625333
+2011,14039,Guadalajara,1,Imports,14,Jalisco,76836578
+2011,14120,Zapopan,1,Imports,14,Jalisco,14345027
+2011,15058,Nezahualcóyotl,1,Imports,15,Estado de México,17552976
+2011,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,17325624
+2011,19019,San Pedro Garza García,1,Imports,19,Nuevo León,264611740
+2011,19026,Guadalupe,1,Imports,19,Nuevo León,62666033
+2011,19039,Monterrey,1,Imports,19,Nuevo León,415796750
+2011,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,117003760
+2011,21114,Puebla,1,Imports,21,Puebla,41618847
+2011,22014,Querétaro,1,Imports,22,Querétaro,28493248
+2011,23005,Benito Juárez,1,Imports,23,Quintana Roo,7296188
+2011,25006,Culiacán,1,Imports,25,Sinaloa,415587674
+2011,25006,Culiacán,2,Exports,25,Sinaloa,320355246
+2011,26018,Cajeme,1,Imports,26,Sonora,2626005
+2011,26018,Cajeme,2,Exports,26,Sonora,117705312
+2011,26030,Hermosillo,1,Imports,26,Sonora,50350833
+2011,26030,Hermosillo,2,Exports,26,Sonora,108933382
+2011,26042,Navojoa,1,Imports,26,Sonora,4995554
+2011,26042,Navojoa,2,Exports,26,Sonora,101139877
+2011,26043,Nogales,1,Imports,26,Sonora,3565308
+2011,26055,San Luis Río Colorado,1,Imports,26,Sonora,3226411
+2011,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,33105055
+2011,28032,Reynosa,1,Imports,28,Tamaulipas,312171024
+2011,28033,Río Bravo,1,Imports,28,Tamaulipas,7416981
+2011,31050,Mérida,1,Imports,31,Yucatán,9352701
+2012,1001,Aguascalientes,1,Imports,1,Aguascalientes,37033630
+2012,2001,Ensenada,1,Imports,2,Baja California,4931240
+2012,2002,Mexicali,1,Imports,2,Baja California,85883154
+2012,2004,Tijuana,1,Imports,2,Baja California,40019758
+2012,3003,La Paz,1,Imports,3,Baja California Sur,488578
+2012,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,492588
+2012,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,2089513
+2012,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,27748722
+2012,8019,Chihuahua,1,Imports,8,Chihuahua,247902057
+2012,8037,Juárez,1,Imports,8,Chihuahua,75030878
+2012,9002,Azcapotzalco,1,Imports,9,Ciudad de México,55534633
+2012,9006,Iztacalco,1,Imports,9,Ciudad de México,2647085
+2012,9007,Iztapalapa,1,Imports,9,Ciudad de México,3094620
+2012,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,314269952
+2012,9014,Benito Juárez,1,Imports,9,Ciudad de México,30776236
+2012,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,4278194
+2012,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,63191049
+2012,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,13604578
+2012,10007,Gómez Palacio,1,Imports,10,Durango,23492473
+2012,11007,Celaya,1,Imports,11,Guanajuato,90767635
+2012,11020,León,1,Imports,11,Guanajuato,958427
+2012,14039,Guadalajara,1,Imports,14,Jalisco,77820093
+2012,14120,Zapopan,1,Imports,14,Jalisco,20980617
+2012,15055,Mexicaltzingo,1,Imports,15,Estado de México,8729099
+2012,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,44239
+2012,15058,Nezahualcóyotl,1,Imports,15,Estado de México,31521791
+2012,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,25822102
+2012,15109,Tultitlán,1,Imports,15,Estado de México,770763
+2012,19019,San Pedro Garza García,1,Imports,19,Nuevo León,245218563
+2012,19026,Guadalupe,1,Imports,19,Nuevo León,45959086
+2012,19039,Monterrey,1,Imports,19,Nuevo León,392880897
+2012,19039,Monterrey,2,Exports,19,Nuevo León,1121740
+2012,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,134702677
+2012,21114,Puebla,1,Imports,21,Puebla,65921247
+2012,22014,Querétaro,1,Imports,22,Querétaro,37479104
+2012,23005,Benito Juárez,1,Imports,23,Quintana Roo,8141212
+2012,25006,Culiacán,1,Imports,25,Sinaloa,435227173
+2012,25006,Culiacán,2,Exports,25,Sinaloa,591575161
+2012,26018,Cajeme,1,Imports,26,Sonora,48927267
+2012,26018,Cajeme,2,Exports,26,Sonora,135928353
+2012,26030,Hermosillo,1,Imports,26,Sonora,50549891
+2012,26030,Hermosillo,2,Exports,26,Sonora,117030116
+2012,26042,Navojoa,1,Imports,26,Sonora,13789968
+2012,26042,Navojoa,2,Exports,26,Sonora,116340273
+2012,26043,Nogales,1,Imports,26,Sonora,2049074
+2012,26055,San Luis Río Colorado,1,Imports,26,Sonora,4669416
+2012,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,43014709
+2012,28032,Reynosa,1,Imports,28,Tamaulipas,234702288
+2012,28033,Río Bravo,1,Imports,28,Tamaulipas,11427214
+2012,31050,Mérida,1,Imports,31,Yucatán,19496321
+2013,1001,Aguascalientes,1,Imports,1,Aguascalientes,51022261
+2013,2001,Ensenada,1,Imports,2,Baja California,3785954
+2013,2002,Mexicali,1,Imports,2,Baja California,95159872
+2013,2004,Tijuana,1,Imports,2,Baja California,53406866
+2013,3003,La Paz,1,Imports,3,Baja California Sur,626691
+2013,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,713590
+2013,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,32035993
+2013,8019,Chihuahua,1,Imports,8,Chihuahua,300602464
+2013,8037,Juárez,1,Imports,8,Chihuahua,84339789
+2013,9002,Azcapotzalco,1,Imports,9,Ciudad de México,55599938
+2013,9005,Gustavo A. Madero,1,Imports,9,Ciudad de México,113887
+2013,9006,Iztacalco,1,Imports,9,Ciudad de México,14959880
+2013,9007,Iztapalapa,1,Imports,9,Ciudad de México,5261144
+2013,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,320262000
+2013,9014,Benito Juárez,1,Imports,9,Ciudad de México,36890827
+2013,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,5390955
+2013,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,67761504
+2013,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,10538304
+2013,10007,Gómez Palacio,1,Imports,10,Durango,24719953
+2013,11007,Celaya,1,Imports,11,Guanajuato,105529358
+2013,11020,León,1,Imports,11,Guanajuato,2249232
+2013,14039,Guadalajara,1,Imports,14,Jalisco,92402611
+2013,14120,Zapopan,1,Imports,14,Jalisco,15164189
+2013,15055,Mexicaltzingo,1,Imports,15,Estado de México,7361493
+2013,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,170637
+2013,15058,Nezahualcóyotl,1,Imports,15,Estado de México,29928343
+2013,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,23891290
+2013,15109,Tultitlán,1,Imports,15,Estado de México,455199
+2013,19019,San Pedro Garza García,1,Imports,19,Nuevo León,211379699
+2013,19026,Guadalupe,1,Imports,19,Nuevo León,53301353
+2013,19039,Monterrey,1,Imports,19,Nuevo León,467700872
+2013,19039,Monterrey,2,Exports,19,Nuevo León,6198835
+2013,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,129283629
+2013,19048,Santa Catarina,1,Imports,19,Nuevo León,12284403
+2013,21114,Puebla,1,Imports,21,Puebla,96655600
+2013,22014,Querétaro,1,Imports,22,Querétaro,49727509
+2013,23005,Benito Juárez,1,Imports,23,Quintana Roo,10182904
+2013,25006,Culiacán,1,Imports,25,Sinaloa,383399506
+2013,25006,Culiacán,2,Exports,25,Sinaloa,505638027
+2013,26018,Cajeme,1,Imports,26,Sonora,75364956
+2013,26018,Cajeme,2,Exports,26,Sonora,190886370
+2013,26030,Hermosillo,1,Imports,26,Sonora,53634836
+2013,26030,Hermosillo,2,Exports,26,Sonora,130563598
+2013,26042,Navojoa,1,Imports,26,Sonora,8639997
+2013,26042,Navojoa,2,Exports,26,Sonora,118971874
+2013,26043,Nogales,1,Imports,26,Sonora,2327503
+2013,26055,San Luis Río Colorado,1,Imports,26,Sonora,4740350
+2013,28022,Matamoros,1,Imports,28,Tamaulipas,8180204
+2013,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,56354572
+2013,28032,Reynosa,1,Imports,28,Tamaulipas,241849500
+2013,28033,Río Bravo,1,Imports,28,Tamaulipas,9480395
+2013,31050,Mérida,1,Imports,31,Yucatán,33477213
+2014,1001,Aguascalientes,1,Imports,1,Aguascalientes,62177952
+2014,1001,Aguascalientes,2,Exports,1,Aguascalientes,2294326
+2014,2001,Ensenada,1,Imports,2,Baja California,2469110
+2014,2002,Mexicali,1,Imports,2,Baja California,107169145
+2014,2002,Mexicali,2,Exports,2,Baja California,2094518
+2014,2004,Tijuana,1,Imports,2,Baja California,138431368
+2014,3003,La Paz,1,Imports,3,Baja California Sur,140019
+2014,3008,Los Cabos,1,Imports,3,Baja California Sur,288386
+2014,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,4496789
+2014,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,3607649
+2014,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,28511338
+2014,8019,Chihuahua,1,Imports,8,Chihuahua,285867136
+2014,8037,Juárez,1,Imports,8,Chihuahua,87378575
+2014,9002,Azcapotzalco,1,Imports,9,Ciudad de México,79716117
+2014,9006,Iztacalco,1,Imports,9,Ciudad de México,9279021
+2014,9007,Iztapalapa,1,Imports,9,Ciudad de México,7055720
+2014,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,405810076
+2014,9011,Tláhuac,1,Imports,9,Ciudad de México,396879
+2014,9014,Benito Juárez,1,Imports,9,Ciudad de México,32878102
+2014,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,9581217
+2014,9015,Cuauhtémoc,2,Exports,9,Ciudad de México,659779
+2014,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,73178716
+2014,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,20404105
+2014,10007,Gómez Palacio,1,Imports,10,Durango,45415914
+2014,11007,Celaya,1,Imports,11,Guanajuato,109438029
+2014,14039,Guadalajara,1,Imports,14,Jalisco,112277298
+2014,14101,Tonalá,1,Imports,14,Jalisco,3044639
+2014,14120,Zapopan,1,Imports,14,Jalisco,18257395
+2014,15055,Mexicaltzingo,1,Imports,15,Estado de México,5140657
+2014,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,484096
+2014,15058,Nezahualcóyotl,1,Imports,15,Estado de México,47468599
+2014,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,17880385
+2014,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,13302988
+2014,19019,San Pedro Garza García,1,Imports,19,Nuevo León,242752911
+2014,19026,Guadalupe,1,Imports,19,Nuevo León,76123616
+2014,19039,Monterrey,1,Imports,19,Nuevo León,455326542
+2014,19039,Monterrey,2,Exports,19,Nuevo León,4314827
+2014,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,160090780
+2014,19048,Santa Catarina,1,Imports,19,Nuevo León,9814663
+2014,21114,Puebla,1,Imports,21,Puebla,130808530
+2014,22014,Querétaro,1,Imports,22,Querétaro,50122218
+2014,23005,Benito Juárez,1,Imports,23,Quintana Roo,11883989
+2014,25006,Culiacán,1,Imports,25,Sinaloa,172409102
+2014,25006,Culiacán,2,Exports,25,Sinaloa,689100450
+2014,26018,Cajeme,1,Imports,26,Sonora,64547784
+2014,26018,Cajeme,2,Exports,26,Sonora,160385619
+2014,26030,Hermosillo,1,Imports,26,Sonora,45776469
+2014,26030,Hermosillo,2,Exports,26,Sonora,124186533
+2014,26042,Navojoa,1,Imports,26,Sonora,11887968
+2014,26042,Navojoa,2,Exports,26,Sonora,107436632
+2014,26043,Nogales,1,Imports,26,Sonora,2306809
+2014,28022,Matamoros,1,Imports,28,Tamaulipas,11159834
+2014,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,65218038
+2014,28032,Reynosa,1,Imports,28,Tamaulipas,295354316
+2014,28033,Río Bravo,1,Imports,28,Tamaulipas,6203844
+2014,30193,Veracruz,1,Imports,30,Veracruz de Ignacio de la Llave,2886734
+2014,31050,Mérida,1,Imports,31,Yucatán,40641278
+2015,1001,Aguascalientes,1,Imports,1,Aguascalientes,50566355
+2015,2002,Mexicali,1,Imports,2,Baja California,86057489
+2015,2004,Tijuana,1,Imports,2,Baja California,114716496
+2015,3008,Los Cabos,1,Imports,3,Baja California Sur,72760
+2015,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,2107228
+2015,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,3783290
+2015,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,16295018
+2015,8019,Chihuahua,1,Imports,8,Chihuahua,211676033
+2015,8037,Juárez,1,Imports,8,Chihuahua,72820629
+2015,9002,Azcapotzalco,1,Imports,9,Ciudad de México,82128124
+2015,9007,Iztapalapa,1,Imports,9,Ciudad de México,5544772
+2015,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,213598919
+2015,9011,Tláhuac,1,Imports,9,Ciudad de México,9155124
+2015,9014,Benito Juárez,1,Imports,9,Ciudad de México,24561676
+2015,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,10296278
+2015,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,113440574
+2015,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,16531363
+2015,10007,Gómez Palacio,1,Imports,10,Durango,42144154
+2015,11007,Celaya,1,Imports,11,Guanajuato,92599073
+2015,14039,Guadalajara,1,Imports,14,Jalisco,92313740
+2015,14101,Tonalá,1,Imports,14,Jalisco,5710104
+2015,14120,Zapopan,1,Imports,14,Jalisco,17261481
+2015,15024,Cuautitlán,1,Imports,15,Estado de México,861851
+2015,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,17107324
+2015,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,1226251
+2015,15058,Nezahualcóyotl,1,Imports,15,Estado de México,37694984
+2015,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,8902421
+2015,15106,Toluca,1,Imports,15,Estado de México,4407597
+2015,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,14764607
+2015,19019,San Pedro Garza García,1,Imports,19,Nuevo León,165566905
+2015,19026,Guadalupe,1,Imports,19,Nuevo León,57474684
+2015,19039,Monterrey,1,Imports,19,Nuevo León,343262123
+2015,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,135661949
+2015,19048,Santa Catarina,1,Imports,19,Nuevo León,61292544
+2015,21114,Puebla,1,Imports,21,Puebla,121898585
+2015,22014,Querétaro,1,Imports,22,Querétaro,46148214
+2015,23005,Benito Juárez,1,Imports,23,Quintana Roo,14911209
+2015,25006,Culiacán,1,Imports,25,Sinaloa,135643134
+2015,25006,Culiacán,2,Exports,25,Sinaloa,768200092
+2015,26018,Cajeme,1,Imports,26,Sonora,62594196
+2015,26018,Cajeme,2,Exports,26,Sonora,131873319
+2015,26030,Hermosillo,1,Imports,26,Sonora,35118718
+2015,26030,Hermosillo,2,Exports,26,Sonora,83313857
+2015,26042,Navojoa,1,Imports,26,Sonora,3955929
+2015,26042,Navojoa,2,Exports,26,Sonora,103357917
+2015,26043,Nogales,1,Imports,26,Sonora,3914221
+2015,28022,Matamoros,1,Imports,28,Tamaulipas,520210
+2015,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,58880644
+2015,28032,Reynosa,1,Imports,28,Tamaulipas,234676284
+2015,28033,Río Bravo,1,Imports,28,Tamaulipas,3728819
+2015,30193,Veracruz,1,Imports,30,Veracruz de Ignacio de la Llave,6052126
+2015,31050,Mérida,1,Imports,31,Yucatán,24386593
+2016,1001,Aguascalientes,1,Imports,1,Aguascalientes,39841794
+2016,2002,Mexicali,1,Imports,2,Baja California,84812144
+2016,2002,Mexicali,2,Exports,2,Baja California,2585200
+2016,2004,Tijuana,1,Imports,2,Baja California,131675679
+2016,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,4260539
+2016,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,13612356
+2016,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,25320229
+2016,8019,Chihuahua,1,Imports,8,Chihuahua,220210128
+2016,8037,Juárez,1,Imports,8,Chihuahua,77720096
+2016,9002,Azcapotzalco,1,Imports,9,Ciudad de México,76936592
+2016,9006,Iztacalco,1,Imports,9,Ciudad de México,22793106
+2016,9007,Iztapalapa,1,Imports,9,Ciudad de México,3149968
+2016,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,68564986
+2016,9014,Benito Juárez,1,Imports,9,Ciudad de México,12390520
+2016,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,10803337
+2016,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,93186659
+2016,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,16243841
+2016,10007,Gómez Palacio,1,Imports,10,Durango,34474649
+2016,11007,Celaya,1,Imports,11,Guanajuato,81759114
+2016,11020,León,1,Imports,11,Guanajuato,2114621
+2016,14039,Guadalajara,1,Imports,14,Jalisco,90838752
+2016,14101,Tonalá,1,Imports,14,Jalisco,20209199
+2016,14120,Zapopan,1,Imports,14,Jalisco,17274895
+2016,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,30877575
+2016,15058,Nezahualcóyotl,1,Imports,15,Estado de México,33428719
+2016,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,24561701
+2016,15106,Toluca,1,Imports,15,Estado de México,4088775
+2016,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,6809855
+2016,19019,San Pedro Garza García,1,Imports,19,Nuevo León,145195841
+2016,19026,Guadalupe,1,Imports,19,Nuevo León,65658131
+2016,19039,Monterrey,1,Imports,19,Nuevo León,310355651
+2016,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,114915876
+2016,21114,Puebla,1,Imports,21,Puebla,162199762
+2016,22014,Querétaro,1,Imports,22,Querétaro,44997328
+2016,23005,Benito Juárez,1,Imports,23,Quintana Roo,24022116
+2016,24028,San Luis Potosí,1,Imports,24,San Luis Potosí,552935
+2016,25006,Culiacán,1,Imports,25,Sinaloa,249502462
+2016,25006,Culiacán,2,Exports,25,Sinaloa,763660862
+2016,26018,Cajeme,1,Imports,26,Sonora,41451273
+2016,26018,Cajeme,2,Exports,26,Sonora,139312341
+2016,26030,Hermosillo,1,Imports,26,Sonora,41589037
+2016,26030,Hermosillo,2,Exports,26,Sonora,105383891
+2016,26042,Navojoa,1,Imports,26,Sonora,5947193
+2016,26042,Navojoa,2,Exports,26,Sonora,129806816
+2016,26043,Nogales,1,Imports,26,Sonora,3905935
+2016,28022,Matamoros,1,Imports,28,Tamaulipas,501324
+2016,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,68765573
+2016,28032,Reynosa,1,Imports,28,Tamaulipas,201984748
+2016,28033,Río Bravo,1,Imports,28,Tamaulipas,1504664
+2016,28038,Tampico,2,Exports,28,Tamaulipas,1606362
+2016,30193,Veracruz,1,Imports,30,Veracruz de Ignacio de la Llave,2753507
+2016,31050,Mérida,1,Imports,31,Yucatán,29438900
+2017,1001,Aguascalientes,1,Imports,1,Aguascalientes,42860216
+2017,2002,Mexicali,1,Imports,2,Baja California,91187177
+2017,2002,Mexicali,2,Exports,2,Baja California,9383933
+2017,2004,Tijuana,1,Imports,2,Baja California,149426467
+2017,2004,Tijuana,2,Exports,2,Baja California,578995
+2017,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,1133337
+2017,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,21919912
+2017,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,24121252
+2017,6007,Manzanillo,1,Imports,6,Colima,856932
+2017,8019,Chihuahua,1,Imports,8,Chihuahua,233024245
+2017,8037,Juárez,1,Imports,8,Chihuahua,87158746
+2017,9002,Azcapotzalco,1,Imports,9,Ciudad de México,92026625
+2017,9006,Iztacalco,1,Imports,9,Ciudad de México,46877069
+2017,9007,Iztapalapa,1,Imports,9,Ciudad de México,4940180
+2017,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,36828358
+2017,9014,Benito Juárez,1,Imports,9,Ciudad de México,13523372
+2017,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,13124258
+2017,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,82804571
+2017,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,15791305
+2017,10007,Gómez Palacio,1,Imports,10,Durango,22388152
+2017,11007,Celaya,1,Imports,11,Guanajuato,79308773
+2017,14039,Guadalajara,1,Imports,14,Jalisco,98594472
+2017,14101,Tonalá,1,Imports,14,Jalisco,9604661
+2017,14120,Zapopan,1,Imports,14,Jalisco,19741763
+2017,15024,Cuautitlán,1,Imports,15,Estado de México,846370
+2017,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,41131376
+2017,15037,Huixquilucan,1,Imports,15,Estado de México,5422518
+2017,15055,Mexicaltzingo,1,Imports,15,Estado de México,3251703
+2017,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,392962
+2017,15058,Nezahualcóyotl,1,Imports,15,Estado de México,26959815
+2017,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,29136039
+2017,15106,Toluca,1,Imports,15,Estado de México,1571344
+2017,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,2773097
+2017,19019,San Pedro Garza García,1,Imports,19,Nuevo León,153057927
+2017,19019,San Pedro Garza García,2,Exports,19,Nuevo León,5054383
+2017,19026,Guadalupe,1,Imports,19,Nuevo León,55420431
+2017,19039,Monterrey,1,Imports,19,Nuevo León,352472489
+2017,19039,Monterrey,2,Exports,19,Nuevo León,267705
+2017,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,105681188
+2017,19048,Santa Catarina,1,Imports,19,Nuevo León,35611730
+2017,21114,Puebla,1,Imports,21,Puebla,190941109
+2017,22014,Querétaro,1,Imports,22,Querétaro,95073255
+2017,23005,Benito Juárez,1,Imports,23,Quintana Roo,18300029
+2017,24028,San Luis Potosí,1,Imports,24,San Luis Potosí,733196
+2017,25006,Culiacán,1,Imports,25,Sinaloa,325342084
+2017,25006,Culiacán,2,Exports,25,Sinaloa,686333905
+2017,26018,Cajeme,1,Imports,26,Sonora,38756364
+2017,26018,Cajeme,2,Exports,26,Sonora,201323697
+2017,26030,Hermosillo,1,Imports,26,Sonora,36595995
+2017,26030,Hermosillo,2,Exports,26,Sonora,136578689
+2017,26042,Navojoa,1,Imports,26,Sonora,4771827
+2017,26042,Navojoa,2,Exports,26,Sonora,164878317
+2017,26043,Nogales,1,Imports,26,Sonora,4119698
+2017,28022,Matamoros,1,Imports,28,Tamaulipas,1763551
+2017,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,75057672
+2017,28032,Reynosa,1,Imports,28,Tamaulipas,201679144
+2017,28033,Río Bravo,1,Imports,28,Tamaulipas,2249250
+2017,30028,Boca del Río,1,Imports,30,Veracruz de Ignacio de la Llave,969544
+2017,31050,Mérida,1,Imports,31,Yucatán,25630318
+2018,1001,Aguascalientes,1,Imports,1,Aguascalientes,42566889
+2018,2002,Mexicali,1,Imports,2,Baja California,85275732
+2018,2002,Mexicali,2,Exports,2,Baja California,24742275
+2018,2004,Tijuana,1,Imports,2,Baja California,153663977
+2018,2004,Tijuana,2,Exports,2,Baja California,1239341
+2018,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,22019843
+2018,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,26822456
+2018,6007,Manzanillo,1,Imports,6,Colima,1931567
+2018,8019,Chihuahua,1,Imports,8,Chihuahua,206011480
+2018,8019,Chihuahua,2,Exports,8,Chihuahua,682830
+2018,8037,Juárez,1,Imports,8,Chihuahua,84644945
+2018,9002,Azcapotzalco,1,Imports,9,Ciudad de México,60789029
+2018,9006,Iztacalco,1,Imports,9,Ciudad de México,48565780
+2018,9007,Iztapalapa,1,Imports,9,Ciudad de México,5984337
+2018,9009,Milpa Alta,1,Imports,9,Ciudad de México,431499
+2018,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,89413605
+2018,9014,Benito Juárez,1,Imports,9,Ciudad de México,9239588
+2018,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,12473237
+2018,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,83908981
+2018,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,14123934
+2018,10007,Gómez Palacio,1,Imports,10,Durango,18089643
+2018,11007,Celaya,1,Imports,11,Guanajuato,66876389
+2018,14039,Guadalajara,1,Imports,14,Jalisco,108401318
+2018,14101,Tonalá,1,Imports,14,Jalisco,12655174
+2018,14120,Zapopan,1,Imports,14,Jalisco,22607274
+2018,15024,Cuautitlán,1,Imports,15,Estado de México,347518
+2018,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,24707341
+2018,15037,Huixquilucan,1,Imports,15,Estado de México,35369517
+2018,15055,Mexicaltzingo,1,Imports,15,Estado de México,1677240
+2018,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,747170
+2018,15058,Nezahualcóyotl,1,Imports,15,Estado de México,27045523
+2018,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,27263798
+2018,15106,Toluca,1,Imports,15,Estado de México,914454
+2018,15109,Tultitlán,1,Imports,15,Estado de México,855979
+2018,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,21894877
+2018,19006,Apodaca,1,Imports,19,Nuevo León,38345323
+2018,19019,San Pedro Garza García,1,Imports,19,Nuevo León,157145806
+2018,19019,San Pedro Garza García,2,Exports,19,Nuevo León,1493809
+2018,19026,Guadalupe,1,Imports,19,Nuevo León,53521717
+2018,19039,Monterrey,1,Imports,19,Nuevo León,366691535
+2018,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,113628677
+2018,19048,Santa Catarina,1,Imports,19,Nuevo León,79761463
+2018,21114,Puebla,1,Imports,21,Puebla,191629743
+2018,22014,Querétaro,1,Imports,22,Querétaro,105086967
+2018,23005,Benito Juárez,1,Imports,23,Quintana Roo,14867351
+2018,25006,Culiacán,1,Imports,25,Sinaloa,329470781
+2018,25006,Culiacán,2,Exports,25,Sinaloa,814195277
+2018,26018,Cajeme,1,Imports,26,Sonora,32300208
+2018,26018,Cajeme,2,Exports,26,Sonora,190816638
+2018,26030,Hermosillo,1,Imports,26,Sonora,32797009
+2018,26030,Hermosillo,2,Exports,26,Sonora,118048268
+2018,26042,Navojoa,2,Exports,26,Sonora,163601433
+2018,26043,Nogales,1,Imports,26,Sonora,3580894
+2018,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,74214472
+2018,28032,Reynosa,1,Imports,28,Tamaulipas,231372339
+2018,28033,Río Bravo,1,Imports,28,Tamaulipas,532529
+2018,31050,Mérida,1,Imports,31,Yucatán,24182212
+2019,1001,Aguascalientes,1,Imports,1,Aguascalientes,41461546
+2019,2002,Mexicali,1,Imports,2,Baja California,88547748
+2019,2002,Mexicali,2,Exports,2,Baja California,27004567
+2019,2004,Tijuana,1,Imports,2,Baja California,170606968
+2019,3008,Los Cabos,1,Imports,3,Baja California Sur,182240
+2019,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,27015598
+2019,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,38863504
+2019,8019,Chihuahua,1,Imports,8,Chihuahua,211739127
+2019,8019,Chihuahua,2,Exports,8,Chihuahua,1081046
+2019,8037,Juárez,1,Imports,8,Chihuahua,92369635
+2019,9002,Azcapotzalco,1,Imports,9,Ciudad de México,62311040
+2019,9006,Iztacalco,1,Imports,9,Ciudad de México,43148920
+2019,9007,Iztapalapa,1,Imports,9,Ciudad de México,5938897
+2019,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,81457596
+2019,9014,Benito Juárez,1,Imports,9,Ciudad de México,24317068
+2019,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,9586867
+2019,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,95537356
+2019,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,12060614
+2019,10007,Gómez Palacio,1,Imports,10,Durango,16487721
+2019,11007,Celaya,1,Imports,11,Guanajuato,74269155
+2019,11023,Pénjamo,1,Imports,11,Guanajuato,1430246
+2019,14016,Ayotlán,1,Imports,14,Jalisco,3745647
+2019,14039,Guadalajara,1,Imports,14,Jalisco,108371720
+2019,14101,Tonalá,1,Imports,14,Jalisco,23937929
+2019,14120,Zapopan,1,Imports,14,Jalisco,21877537
+2019,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,11420880
+2019,15037,Huixquilucan,1,Imports,15,Estado de México,83615166
+2019,15055,Mexicaltzingo,1,Imports,15,Estado de México,1982890
+2019,15058,Nezahualcóyotl,1,Imports,15,Estado de México,35961851
+2019,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,29442271
+2019,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,33016568
+2019,19006,Apodaca,1,Imports,19,Nuevo León,97636684
+2019,19019,San Pedro Garza García,1,Imports,19,Nuevo León,272634150
+2019,19019,San Pedro Garza García,2,Exports,19,Nuevo León,523057
+2019,19026,Guadalupe,1,Imports,19,Nuevo León,52766400
+2019,19039,Monterrey,1,Imports,19,Nuevo León,377368873
+2019,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,124869350
+2019,19048,Santa Catarina,1,Imports,19,Nuevo León,102636030
+2019,21114,Puebla,1,Imports,21,Puebla,173055709
+2019,22014,Querétaro,1,Imports,22,Querétaro,132819234
+2019,23005,Benito Juárez,1,Imports,23,Quintana Roo,12781684
+2019,25006,Culiacán,1,Imports,25,Sinaloa,345686166
+2019,25006,Culiacán,2,Exports,25,Sinaloa,874842417
+2019,26018,Cajeme,1,Imports,26,Sonora,37706709
+2019,26018,Cajeme,2,Exports,26,Sonora,199667313
+2019,26030,Hermosillo,1,Imports,26,Sonora,33470056
+2019,26030,Hermosillo,2,Exports,26,Sonora,184402942
+2019,26042,Navojoa,2,Exports,26,Sonora,173727224
+2019,26043,Nogales,1,Imports,26,Sonora,4175608
+2019,26055,San Luis Río Colorado,1,Imports,26,Sonora,637261
+2019,28022,Matamoros,1,Imports,28,Tamaulipas,424081
+2019,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,80612857
+2019,28032,Reynosa,1,Imports,28,Tamaulipas,277919288
+2019,31050,Mérida,1,Imports,31,Yucatán,24487792
+2020,1001,Aguascalientes,1,Imports,1,Aguascalientes,36198765
+2020,2002,Mexicali,1,Imports,2,Baja California,73675255
+2020,2002,Mexicali,2,Exports,2,Baja California,35912379
+2020,2004,Tijuana,1,Imports,2,Baja California,125459742
+2020,3008,Los Cabos,1,Imports,3,Baja California Sur,124568
+2020,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,2889445
+2020,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,26761041
+2020,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,32070469
+2020,5035,Torreón,2,Exports,5,Coahuila de Zaragoza,889654
+2020,8019,Chihuahua,1,Imports,8,Chihuahua,181144752
+2020,8019,Chihuahua,2,Exports,8,Chihuahua,23403498
+2020,8037,Juárez,1,Imports,8,Chihuahua,80828665
+2020,9002,Azcapotzalco,1,Imports,9,Ciudad de México,64557708
+2020,9006,Iztacalco,1,Imports,9,Ciudad de México,42297495
+2020,9007,Iztapalapa,1,Imports,9,Ciudad de México,4237769
+2020,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,98300606
+2020,9014,Benito Juárez,1,Imports,9,Ciudad de México,33106679
+2020,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,7275144
+2020,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,81045214
+2020,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,7527648
+2020,10007,Gómez Palacio,1,Imports,10,Durango,12057359
+2020,10007,Gómez Palacio,2,Exports,10,Durango,7919366
+2020,11007,Celaya,1,Imports,11,Guanajuato,66335339
+2020,11023,Pénjamo,1,Imports,11,Guanajuato,4193028
+2020,14016,Ayotlán,1,Imports,14,Jalisco,3236243
+2020,14039,Guadalajara,1,Imports,14,Jalisco,82488707
+2020,14101,Tonalá,1,Imports,14,Jalisco,6498978
+2020,14120,Zapopan,1,Imports,14,Jalisco,16294382
+2020,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,18025557
+2020,15037,Huixquilucan,1,Imports,15,Estado de México,110715242
+2020,15055,Mexicaltzingo,1,Imports,15,Estado de México,640075
+2020,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,538358
+2020,15058,Nezahualcóyotl,1,Imports,15,Estado de México,27866905
+2020,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,21474000
+2020,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,19512802
+2020,19006,Apodaca,1,Imports,19,Nuevo León,67922256
+2020,19019,San Pedro Garza García,1,Imports,19,Nuevo León,332665751
+2020,19019,San Pedro Garza García,2,Exports,19,Nuevo León,3216910
+2020,19026,Guadalupe,1,Imports,19,Nuevo León,51268701
+2020,19039,Monterrey,1,Imports,19,Nuevo León,264771557
+2020,19039,Monterrey,2,Exports,19,Nuevo León,513730
+2020,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,93702867
+2020,19048,Santa Catarina,1,Imports,19,Nuevo León,69518351
+2020,21114,Puebla,1,Imports,21,Puebla,71977228
+2020,22014,Querétaro,1,Imports,22,Querétaro,124922214
+2020,23005,Benito Juárez,1,Imports,23,Quintana Roo,5593648
+2020,25006,Culiacán,1,Imports,25,Sinaloa,386140025
+2020,25006,Culiacán,2,Exports,25,Sinaloa,864002881
+2020,26018,Cajeme,1,Imports,26,Sonora,28629402
+2020,26018,Cajeme,2,Exports,26,Sonora,266501841
+2020,26030,Hermosillo,1,Imports,26,Sonora,24106876
+2020,26030,Hermosillo,2,Exports,26,Sonora,254507374
+2020,26042,Navojoa,2,Exports,26,Sonora,190486442
+2020,26043,Nogales,1,Imports,26,Sonora,3684170
+2020,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,69332491
+2020,28032,Reynosa,1,Imports,28,Tamaulipas,231832939
+2020,28033,Río Bravo,1,Imports,28,Tamaulipas,1012868
+2020,31050,Mérida,1,Imports,31,Yucatán,14690529
+2021,1001,Aguascalientes,1,Imports,1,Aguascalientes,54108316
+2021,1001,Aguascalientes,2,Exports,1,Aguascalientes,13348714
+2021,1005,Jesús María,1,Imports,1,Aguascalientes,2831064
+2021,2002,Mexicali,1,Imports,2,Baja California,99788269
+2021,2002,Mexicali,2,Exports,2,Baja California,72249190
+2021,2004,Tijuana,1,Imports,2,Baja California,177113190
+2021,3008,Los Cabos,1,Imports,3,Baja California Sur,77568
+2021,5018,Monclova,1,Imports,5,Coahuila de Zaragoza,2296181
+2021,5025,Piedras Negras,1,Imports,5,Coahuila de Zaragoza,1453183
+2021,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,36252175
+2021,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,49708867
+2021,5035,Torreón,2,Exports,5,Coahuila de Zaragoza,1453750
+2021,8019,Chihuahua,1,Imports,8,Chihuahua,275529149
+2021,8019,Chihuahua,2,Exports,8,Chihuahua,45993414
+2021,8037,Juárez,1,Imports,8,Chihuahua,105589083
+2021,9002,Azcapotzalco,1,Imports,9,Ciudad de México,75095306
+2021,9006,Iztacalco,1,Imports,9,Ciudad de México,71840684
+2021,9007,Iztapalapa,1,Imports,9,Ciudad de México,9550719
+2021,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,107077283
+2021,9014,Benito Juárez,1,Imports,9,Ciudad de México,51724311
+2021,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,9300671
+2021,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,130853478
+2021,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,8945747
+2021,10007,Gómez Palacio,1,Imports,10,Durango,19794639
+2021,10007,Gómez Palacio,2,Exports,10,Durango,11144860
+2021,11007,Celaya,1,Imports,11,Guanajuato,93074406
+2021,11020,León,1,Imports,11,Guanajuato,70258925
+2021,11023,Pénjamo,1,Imports,11,Guanajuato,2344661
+2021,14016,Ayotlán,1,Imports,14,Jalisco,3024532
+2021,14039,Guadalajara,1,Imports,14,Jalisco,185041897
+2021,14101,Tonalá,1,Imports,14,Jalisco,16916279
+2021,14120,Zapopan,1,Imports,14,Jalisco,30760944
+2021,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,46823711
+2021,15037,Huixquilucan,1,Imports,15,Estado de México,181984117
+2021,15058,Nezahualcóyotl,1,Imports,15,Estado de México,35069744
+2021,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,34239732
+2021,15106,Toluca,1,Imports,15,Estado de México,73848
+2021,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,29587683
+2021,19006,Apodaca,1,Imports,19,Nuevo León,102790473
+2021,19019,San Pedro Garza García,1,Imports,19,Nuevo León,559762896
+2021,19026,Guadalupe,1,Imports,19,Nuevo León,69802635
+2021,19039,Monterrey,1,Imports,19,Nuevo León,335870567
+2021,19039,Monterrey,2,Exports,19,Nuevo León,17602080
+2021,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,139608259
+2021,19048,Santa Catarina,1,Imports,19,Nuevo León,135986927
+2021,21114,Puebla,1,Imports,21,Puebla,75772603
+2021,22014,Querétaro,1,Imports,22,Querétaro,102647584
+2021,23005,Benito Juárez,1,Imports,23,Quintana Roo,14257535
+2021,25006,Culiacán,1,Imports,25,Sinaloa,581471401
+2021,25006,Culiacán,2,Exports,25,Sinaloa,1119459766
+2021,25011,Guasave,2,Exports,25,Sinaloa,6635847
+2021,26018,Cajeme,1,Imports,26,Sonora,35087838
+2021,26018,Cajeme,2,Exports,26,Sonora,338231268
+2021,26030,Hermosillo,1,Imports,26,Sonora,33278539
+2021,26030,Hermosillo,2,Exports,26,Sonora,221434937
+2021,26042,Navojoa,2,Exports,26,Sonora,171766165
+2021,26043,Nogales,1,Imports,26,Sonora,4742037
+2021,28022,Matamoros,1,Imports,28,Tamaulipas,2314748
+2021,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,85092592
+2021,28032,Reynosa,1,Imports,28,Tamaulipas,310282603
+2021,28033,Río Bravo,1,Imports,28,Tamaulipas,2491209
+2021,31050,Mérida,1,Imports,31,Yucatán,24365908
+2022,1001,Aguascalientes,1,Imports,1,Aguascalientes,60788297
+2022,1001,Aguascalientes,2,Exports,1,Aguascalientes,24048737
+2022,1005,Jesús María,1,Imports,1,Aguascalientes,196870
+2022,2002,Mexicali,1,Imports,2,Baja California,109606472
+2022,2002,Mexicali,2,Exports,2,Baja California,78842259
+2022,2004,Tijuana,1,Imports,2,Baja California,182111703
+2022,3008,Los Cabos,1,Imports,3,Baja California Sur,198250
+2022,5025,Piedras Negras,1,Imports,5,Coahuila de Zaragoza,11262803
+2022,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,42014302
+2022,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,68233298
+2022,8019,Chihuahua,1,Imports,8,Chihuahua,285826819
+2022,8019,Chihuahua,2,Exports,8,Chihuahua,105351566
+2022,8037,Juárez,1,Imports,8,Chihuahua,120498874
+2022,9002,Azcapotzalco,1,Imports,9,Ciudad de México,84804233
+2022,9006,Iztacalco,1,Imports,9,Ciudad de México,99238147
+2022,9007,Iztapalapa,1,Imports,9,Ciudad de México,11817848
+2022,9008,La Magdalena Contreras,1,Imports,9,Ciudad de México,868828
+2022,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,163355781
+2022,9014,Benito Juárez,1,Imports,9,Ciudad de México,99205535
+2022,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,13332974
+2022,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,196934561
+2022,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,17207221
+2022,10007,Gómez Palacio,1,Imports,10,Durango,19468002
+2022,11007,Celaya,1,Imports,11,Guanajuato,101223344
+2022,11020,León,1,Imports,11,Guanajuato,8392928
+2022,11023,Pénjamo,1,Imports,11,Guanajuato,526349
+2022,14039,Guadalajara,1,Imports,14,Jalisco,262290259
+2022,14039,Guadalajara,2,Exports,14,Jalisco,123355
+2022,14101,Tonalá,1,Imports,14,Jalisco,15966253
+2022,14120,Zapopan,1,Imports,14,Jalisco,41756244
+2022,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,44625827
+2022,15037,Huixquilucan,1,Imports,15,Estado de México,193540879
+2022,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,839451
+2022,15058,Nezahualcóyotl,1,Imports,15,Estado de México,36533041
+2022,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,50619060
+2022,15106,Toluca,1,Imports,15,Estado de México,81301
+2022,15109,Tultitlán,1,Imports,15,Estado de México,986679
+2022,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,19394919
+2022,19006,Apodaca,1,Imports,19,Nuevo León,101043480
+2022,19019,San Pedro Garza García,1,Imports,19,Nuevo León,782360480
+2022,19026,Guadalupe,1,Imports,19,Nuevo León,79898195
+2022,19039,Monterrey,1,Imports,19,Nuevo León,368039706
+2022,19039,Monterrey,2,Exports,19,Nuevo León,4755800
+2022,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,132600938
+2022,19048,Santa Catarina,1,Imports,19,Nuevo León,116344676
+2022,21114,Puebla,1,Imports,21,Puebla,88319343
+2022,22014,Querétaro,1,Imports,22,Querétaro,100125112
+2022,23005,Benito Juárez,1,Imports,23,Quintana Roo,13159351
+2022,25001,Ahome,1,Imports,25,Sinaloa,1825304
+2022,25006,Culiacán,1,Imports,25,Sinaloa,587751596
+2022,25006,Culiacán,2,Exports,25,Sinaloa,1129651324
+2022,25011,Guasave,2,Exports,25,Sinaloa,112502364
+2022,26018,Cajeme,1,Imports,26,Sonora,20733030
+2022,26018,Cajeme,2,Exports,26,Sonora,271292196
+2022,26030,Hermosillo,1,Imports,26,Sonora,30613504
+2022,26030,Hermosillo,2,Exports,26,Sonora,182039877
+2022,26042,Navojoa,2,Exports,26,Sonora,156568315
+2022,26043,Nogales,1,Imports,26,Sonora,1219003
+2022,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,118306597
+2022,28032,Reynosa,1,Imports,28,Tamaulipas,392057477
+2022,28033,Río Bravo,1,Imports,28,Tamaulipas,1540019
+2022,31050,Mérida,1,Imports,31,Yucatán,46285151
+2023,1001,Aguascalientes,1,Imports,1,Aguascalientes,78147411
+2023,1001,Aguascalientes,2,Exports,1,Aguascalientes,3706255
+2023,2002,Mexicali,1,Imports,2,Baja California,115100137
+2023,2002,Mexicali,2,Exports,2,Baja California,33127277
+2023,2004,Tijuana,1,Imports,2,Baja California,211567959
+2023,5025,Piedras Negras,1,Imports,5,Coahuila de Zaragoza,7586072
+2023,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,40405130
+2023,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,75198591
+2023,8019,Chihuahua,1,Imports,8,Chihuahua,304382464
+2023,8019,Chihuahua,2,Exports,8,Chihuahua,74059194
+2023,8037,Juárez,1,Imports,8,Chihuahua,141334071
+2023,9002,Azcapotzalco,1,Imports,9,Ciudad de México,112079438
+2023,9006,Iztacalco,1,Imports,9,Ciudad de México,125265696
+2023,9007,Iztapalapa,1,Imports,9,Ciudad de México,21587453
+2023,9008,La Magdalena Contreras,1,Imports,9,Ciudad de México,1130411
+2023,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,149400591
+2023,9014,Benito Juárez,1,Imports,9,Ciudad de México,123195465
+2023,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,20115529
+2023,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,149082498
+2023,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,38630283
+2023,10007,Gómez Palacio,1,Imports,10,Durango,21815589
+2023,11007,Celaya,1,Imports,11,Guanajuato,100725291
+2023,11020,León,1,Imports,11,Guanajuato,29357190
+2023,11023,Pénjamo,1,Imports,11,Guanajuato,5290509
+2023,14016,Ayotlán,1,Imports,14,Jalisco,5123836
+2023,14039,Guadalajara,1,Imports,14,Jalisco,325646552
+2023,14101,Tonalá,1,Imports,14,Jalisco,18229266
+2023,14120,Zapopan,1,Imports,14,Jalisco,45811307
+2023,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,24158016
+2023,15037,Huixquilucan,1,Imports,15,Estado de México,249883790
+2023,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,2142279
+2023,15058,Nezahualcóyotl,1,Imports,15,Estado de México,27501589
+2023,15065,Otumba,1,Imports,15,Estado de México,6954615
+2023,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,55309970
+2023,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,18597008
+2023,19006,Apodaca,1,Imports,19,Nuevo León,105315151
+2023,19019,San Pedro Garza García,1,Imports,19,Nuevo León,731113114
+2023,19019,San Pedro Garza García,2,Exports,19,Nuevo León,1565081
+2023,19026,Guadalupe,1,Imports,19,Nuevo León,85406336
+2023,19039,Monterrey,1,Imports,19,Nuevo León,431970604
+2023,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,129357905
+2023,19048,Santa Catarina,1,Imports,19,Nuevo León,140008721
+2023,21114,Puebla,1,Imports,21,Puebla,102374839
+2023,22011,El Marqués,1,Imports,22,Querétaro,2899999
+2023,22014,Querétaro,1,Imports,22,Querétaro,83416214
+2023,23005,Benito Juárez,1,Imports,23,Quintana Roo,18627856
+2023,25001,Ahome,1,Imports,25,Sinaloa,4801422
+2023,25006,Culiacán,1,Imports,25,Sinaloa,600088893
+2023,25006,Culiacán,2,Exports,25,Sinaloa,1055531102
+2023,25011,Guasave,2,Exports,25,Sinaloa,126197292
+2023,26018,Cajeme,1,Imports,26,Sonora,27457755
+2023,26018,Cajeme,2,Exports,26,Sonora,213216963
+2023,26030,Hermosillo,1,Imports,26,Sonora,32270856
+2023,26030,Hermosillo,2,Exports,26,Sonora,126127507
+2023,26042,Navojoa,2,Exports,26,Sonora,133148478
+2023,26043,Nogales,1,Imports,26,Sonora,793300
+2023,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,114355343
+2023,28032,Reynosa,1,Imports,28,Tamaulipas,360238632
+2023,28033,Río Bravo,1,Imports,28,Tamaulipas,4110344
+2023,28038,Tampico,1,Imports,28,Tamaulipas,4354624
+2023,31050,Mérida,1,Imports,31,Yucatán,55778057
+2024,1001,Aguascalientes,1,Imports,1,Aguascalientes,93344466
+2024,1005,Jesús María,1,Imports,1,Aguascalientes,690178
+2024,2002,Mexicali,1,Imports,2,Baja California,119426943
+2024,2002,Mexicali,2,Exports,2,Baja California,13649290
+2024,2004,Tijuana,1,Imports,2,Baja California,265636088
+2024,5025,Piedras Negras,1,Imports,5,Coahuila de Zaragoza,5020131
+2024,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,47084553
+2024,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,119388139
+2024,5035,Torreón,2,Exports,5,Coahuila de Zaragoza,1235050
+2024,6007,Manzanillo,1,Imports,6,Colima,9928433
+2024,8019,Chihuahua,1,Imports,8,Chihuahua,396184564
+2024,8019,Chihuahua,2,Exports,8,Chihuahua,53870466
+2024,8037,Juárez,1,Imports,8,Chihuahua,151211088
+2024,9002,Azcapotzalco,1,Imports,9,Ciudad de México,133524617
+2024,9004,Cuajimalpa de Morelos,1,Imports,9,Ciudad de México,2711540
+2024,9006,Iztacalco,1,Imports,9,Ciudad de México,130270138
+2024,9007,Iztapalapa,1,Imports,9,Ciudad de México,23305509
+2024,9008,La Magdalena Contreras,1,Imports,9,Ciudad de México,1031914
+2024,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,228124274
+2024,9014,Benito Juárez,1,Imports,9,Ciudad de México,146294482
+2024,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,28854919
+2024,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,151656603
+2024,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,59771749
+2024,10007,Gómez Palacio,1,Imports,10,Durango,31659261
+2024,11007,Celaya,1,Imports,11,Guanajuato,119951150
+2024,11020,León,1,Imports,11,Guanajuato,63268529
+2024,11023,Pénjamo,1,Imports,11,Guanajuato,14039303
+2024,14039,Guadalajara,1,Imports,14,Jalisco,459181563
+2024,14101,Tonalá,1,Imports,14,Jalisco,27099887
+2024,14120,Zapopan,1,Imports,14,Jalisco,92153844
+2024,15033,Ecatepec de Morelos,1,Imports,15,Estado de México,1807692
+2024,15037,Huixquilucan,1,Imports,15,Estado de México,320046328
+2024,15057,Naucalpan de Juárez,1,Imports,15,Estado de México,372248
+2024,15058,Nezahualcóyotl,1,Imports,15,Estado de México,38206153
+2024,15065,Otumba,1,Imports,15,Estado de México,8615055
+2024,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,53426783
+2024,15106,Toluca,1,Imports,15,Estado de México,181943
+2024,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,19541791
+2024,17030,Yecapixtla,1,Imports,17,Morelos,4485694
+2024,19006,Apodaca,1,Imports,19,Nuevo León,123974385
+2024,19019,San Pedro Garza García,1,Imports,19,Nuevo León,765953305
+2024,19019,San Pedro Garza García,2,Exports,19,Nuevo León,530046
+2024,19026,Guadalupe,1,Imports,19,Nuevo León,95826012
+2024,19039,Monterrey,1,Imports,19,Nuevo León,464969244
+2024,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,177883784
+2024,19048,Santa Catarina,1,Imports,19,Nuevo León,193378124
+2024,21114,Puebla,1,Imports,21,Puebla,108466155
+2024,22014,Querétaro,1,Imports,22,Querétaro,117625795
+2024,23005,Benito Juárez,1,Imports,23,Quintana Roo,16918846
+2024,25001,Ahome,1,Imports,25,Sinaloa,9237764
+2024,25006,Culiacán,1,Imports,25,Sinaloa,756984217
+2024,25006,Culiacán,2,Exports,25,Sinaloa,1161448670
+2024,25011,Guasave,2,Exports,25,Sinaloa,162093441
+2024,26018,Cajeme,1,Imports,26,Sonora,100740834
+2024,26018,Cajeme,2,Exports,26,Sonora,174200502
+2024,26030,Hermosillo,1,Imports,26,Sonora,24743147
+2024,26030,Hermosillo,2,Exports,26,Sonora,13371199
+2024,26042,Navojoa,2,Exports,26,Sonora,229359293
+2024,26043,Nogales,1,Imports,26,Sonora,667191
+2024,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,104418999
+2024,28032,Reynosa,1,Imports,28,Tamaulipas,377092878
+2024,28033,Río Bravo,1,Imports,28,Tamaulipas,6051701
+2024,28038,Tampico,1,Imports,28,Tamaulipas,1503704
+2024,31050,Mérida,1,Imports,31,Yucatán,105986603
+2025,1001,Aguascalientes,1,Imports,1,Aguascalientes,110247409
+2025,2002,Mexicali,1,Imports,2,Baja California,106295894
+2025,2002,Mexicali,2,Exports,2,Baja California,6553665
+2025,2004,Tijuana,1,Imports,2,Baja California,291202730
+2025,3008,Los Cabos,1,Imports,3,Baja California Sur,98292
+2025,5025,Piedras Negras,1,Imports,5,Coahuila de Zaragoza,5552450
+2025,5030,Saltillo,1,Imports,5,Coahuila de Zaragoza,39495391
+2025,5035,Torreón,1,Imports,5,Coahuila de Zaragoza,151604001
+2025,6007,Manzanillo,1,Imports,6,Colima,1934114
+2025,8019,Chihuahua,1,Imports,8,Chihuahua,417924685
+2025,8019,Chihuahua,2,Exports,8,Chihuahua,72872565
+2025,8037,Juárez,1,Imports,8,Chihuahua,149809301
+2025,9002,Azcapotzalco,1,Imports,9,Ciudad de México,87987168
+2025,9003,Coyoacán,1,Imports,9,Ciudad de México,250987
+2025,9004,Cuajimalpa de Morelos,1,Imports,9,Ciudad de México,73421594
+2025,9006,Iztacalco,1,Imports,9,Ciudad de México,112241935
+2025,9007,Iztapalapa,1,Imports,9,Ciudad de México,22305561
+2025,9008,La Magdalena Contreras,1,Imports,9,Ciudad de México,1910295
+2025,9010,Álvaro Obregón,1,Imports,9,Ciudad de México,352603433
+2025,9014,Benito Juárez,1,Imports,9,Ciudad de México,321344589
+2025,9015,Cuauhtémoc,1,Imports,9,Ciudad de México,58226732
+2025,9016,Miguel Hidalgo,1,Imports,9,Ciudad de México,157410319
+2025,9017,Venustiano Carranza,1,Imports,9,Ciudad de México,59620170
+2025,10007,Gómez Palacio,1,Imports,10,Durango,40498693
+2025,11007,Celaya,1,Imports,11,Guanajuato,132641143
+2025,11020,León,1,Imports,11,Guanajuato,92515250
+2025,11023,Pénjamo,1,Imports,11,Guanajuato,28808050
+2025,14039,Guadalajara,1,Imports,14,Jalisco,329533487
+2025,14101,Tonalá,1,Imports,14,Jalisco,40275041
+2025,14120,Zapopan,1,Imports,14,Jalisco,98605152
+2025,15037,Huixquilucan,1,Imports,15,Estado de México,290711465
+2025,15055,Mexicaltzingo,1,Imports,15,Estado de México,1009076
+2025,15058,Nezahualcóyotl,1,Imports,15,Estado de México,56001553
+2025,15065,Otumba,1,Imports,15,Estado de México,12682333
+2025,15104,Tlalnepantla de Baz,1,Imports,15,Estado de México,53434912
+2025,15121,Cuautitlán Izcalli,1,Imports,15,Estado de México,32177059
+2025,17030,Yecapixtla,1,Imports,17,Morelos,2813623
+2025,19006,Apodaca,1,Imports,19,Nuevo León,108419639
+2025,19009,Cadereyta Jiménez,1,Imports,19,Nuevo León,430208
+2025,19019,San Pedro Garza García,1,Imports,19,Nuevo León,845005734
+2025,19019,San Pedro Garza García,2,Exports,19,Nuevo León,674602
+2025,19026,Guadalupe,1,Imports,19,Nuevo León,110620813
+2025,19039,Monterrey,1,Imports,19,Nuevo León,473445283
+2025,19046,San Nicolás de los Garza,1,Imports,19,Nuevo León,175380246
+2025,19048,Santa Catarina,1,Imports,19,Nuevo León,251939358
+2025,21114,Puebla,1,Imports,21,Puebla,125757992
+2025,22011,El Marqués,1,Imports,22,Querétaro,142704
+2025,22014,Querétaro,1,Imports,22,Querétaro,134631689
+2025,23005,Benito Juárez,1,Imports,23,Quintana Roo,27722841
+2025,25001,Ahome,1,Imports,25,Sinaloa,13223128
+2025,25006,Culiacán,1,Imports,25,Sinaloa,828333165
+2025,25006,Culiacán,2,Exports,25,Sinaloa,1186107642
+2025,25011,Guasave,2,Exports,25,Sinaloa,131875914
+2025,26018,Cajeme,1,Imports,26,Sonora,114416685
+2025,26018,Cajeme,2,Exports,26,Sonora,125114382
+2025,26030,Hermosillo,1,Imports,26,Sonora,22859770
+2025,26030,Hermosillo,2,Exports,26,Sonora,11003304
+2025,26042,Navojoa,2,Exports,26,Sonora,167434359
+2025,28027,Nuevo Laredo,1,Imports,28,Tamaulipas,101034880
+2025,28032,Reynosa,1,Imports,28,Tamaulipas,307171069
+2025,28033,Río Bravo,1,Imports,28,Tamaulipas,3302014
+2025,31050,Mérida,1,Imports,31,Yucatán,130433340
